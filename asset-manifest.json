@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.271b1af8.css",
-    "main.js": "/portfolio-website/static/js/main.7a4aabc2.js",
+    "main.js": "/portfolio-website/static/js/main.a8ff7fb0.js",
     "static/media/about-image.jpg": "/portfolio-website/static/media/about-image.e4d5b2c0ebaa5534090f.jpg",
     "static/media/Sauchoy_Chac_CV.pdf": "/portfolio-website/static/media/Sauchoy_Chac_CV.28a47f1813590efc08a8.pdf",
     "index.html": "/portfolio-website/index.html",
     "main.271b1af8.css.map": "/portfolio-website/static/css/main.271b1af8.css.map",
-    "main.7a4aabc2.js.map": "/portfolio-website/static/js/main.7a4aabc2.js.map"
+    "main.a8ff7fb0.js.map": "/portfolio-website/static/js/main.a8ff7fb0.js.map"
   },
   "entrypoints": [
     "static/css/main.271b1af8.css",
-    "static/js/main.7a4aabc2.js"
+    "static/js/main.a8ff7fb0.js"
   ]
 }
