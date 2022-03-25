@@ -35,9 +35,10 @@ const About = () => {
       </div>
       
       <p>
-      My name is Sauchoy Chac. I graduated from City, University of London with 2:1 Honours in July 2021.
-      Now, I am looking for my entry level jobs to start my career. I am mainly focused on finding Front
-      End Development or Games Techonlogy Opportunites but am open to all types of opportunities.
+      My name is Sauchoy Chac. I graduated from City, University of London with a Bachelor of Science with Honours 
+      in Computer Science with Games Technology, Class II Upper Division.
+      Now, I am looking for entry level roles to start my career. I am mainly focused on finding Front
+      End Development or Games Technology opportunites but am open to all types of opportunities.
       Though I may not have any professional experience at the moment, I know that I can bring a new
       prespective and approach to every project. I am always open to new challenges and constructive feedback.
       I am open-minded and able to adapt to new challenges quickly.
